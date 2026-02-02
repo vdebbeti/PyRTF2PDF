@@ -1,0 +1,5 @@
+{
+  "name": "PyRTF2PDF Generator",
+  "description": "A developer tool to generate a custom Windows Python application for merging and converting RTF files to PDF with advanced Table of Contents and sorting logic.",
+  "requestFramePermissions": []
+}
